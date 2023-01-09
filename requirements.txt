@@ -2,7 +2,7 @@ APScheduler==3.9.1
 cachetools==5.2.1
 certifi==2022.9.24
 python-telegram-bot==20.0
-pytz==2022.6
+pytz==2022.7
 six==1.16.0
 tornado==6.2
 tzlocal==4.2
