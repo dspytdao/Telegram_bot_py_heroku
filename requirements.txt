@@ -1,4 +1,4 @@
-APScheduler==3.9.1.post1
+APScheduler==3.10.0
 cachetools==5.2.1
 certifi==2022.12.7
 python-telegram-bot==20.1
