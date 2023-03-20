@@ -5,4 +5,4 @@ python-telegram-bot==20.1
 pytz==2022.7.1
 six==1.16.0
 tornado==6.2
-tzlocal==4.2
+tzlocal==4.3
