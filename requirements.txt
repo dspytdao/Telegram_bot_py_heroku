@@ -1,6 +1,6 @@
 APScheduler==3.10.1
 cachetools==5.3.1
-certifi==2022.12.7
+certifi==2023.7.22
 python-telegram-bot==20.1
 pytz==2022.7.1
 six==1.16.0
