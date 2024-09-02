@@ -4,5 +4,5 @@ certifi==2024.8.30
 python-telegram-bot==21.5
 pytz==2024.1
 six==1.16.0
-tornado==6.4
+tornado==6.4.1
 tzlocal==5.2
